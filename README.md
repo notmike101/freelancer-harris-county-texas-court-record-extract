@@ -1,4 +1,4 @@
-# harriscounty-texas-court-record-extract
+# Harris County Texas Court Record Extract
 For unpaid freelancer project
 
 ## Project Description
